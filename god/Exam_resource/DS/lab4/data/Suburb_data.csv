@@ -1,0 +1,315 @@
+Suburb,Regionname,Postcode,Propertycount
+Abbotsford,Northern Metropolitan,3067.0,4019.0
+Airport West,Western Metropolitan,3042.0,3464.0
+Albert Park,Southern Metropolitan,3206.0,3280.0
+Alphington,Northern Metropolitan,3078.0,2211.0
+Altona,Western Metropolitan,3018.0,5301.0
+Altona North,Western Metropolitan,3025.0,5132.0
+Armadale,Southern Metropolitan,3143.0,4836.0
+Ascot Vale,Western Metropolitan,3032.0,6567.0
+Ashburton,Southern Metropolitan,3147.0,3052.0
+Ashwood,Southern Metropolitan,3147.0,2894.0
+Avondale Heights,Western Metropolitan,3034.0,4502.0
+Balaclava,Southern Metropolitan,3183.0,2952.0
+Balwyn,Southern Metropolitan,3103.0,5682.0
+Balwyn North,Southern Metropolitan,3104.0,7809.0
+Bentleigh,Southern Metropolitan,3204.0,6795.0
+Bentleigh East,Southern Metropolitan,3165.0,10969.0
+Box Hill,Eastern Metropolitan,3128.0,4605.0
+Braybrook,Western Metropolitan,3019.0,3589.0
+Brighton,Southern Metropolitan,3186.0,10579.0
+Brighton East,Southern Metropolitan,3187.0,6938.0
+Brunswick,Northern Metropolitan,3056.0,11918.0
+Brunswick West,Northern Metropolitan,3055.0,7082.0
+Bulleen,Eastern Metropolitan,3105.0,4480.0
+Burwood,Southern Metropolitan,3125.0,5678.0
+Camberwell,Southern Metropolitan,3124.0,8920.0
+Canterbury,Southern Metropolitan,3126.0,3265.0
+Carlton North,Northern Metropolitan,3054.0,3106.0
+Carnegie,Southern Metropolitan,3163.0,7822.0
+Caulfield,Southern Metropolitan,3162.0,2379.0
+Caulfield North,Southern Metropolitan,3161.0,6923.0
+Caulfield South,Southern Metropolitan,3162.0,5051.0
+Chadstone,Southern Metropolitan,3148.0,3582.0
+Clifton Hill,Northern Metropolitan,3068.0,2954.0
+Coburg,Northern Metropolitan,3058.0,11204.0
+Coburg North,Northern Metropolitan,3058.0,3445.0
+Collingwood,Northern Metropolitan,3066.0,4553.0
+Doncaster,Eastern Metropolitan,3108.0,9028.0
+Eaglemont,Eastern Metropolitan,3084.0,1651.0
+Elsternwick,Southern Metropolitan,3185.0,4898.0
+Elwood,Southern Metropolitan,3184.0,8989.0
+Essendon,Western Metropolitan,3040.0,9264.0
+Essendon North,Western Metropolitan,3041.0,1308.0
+Fairfield,Northern Metropolitan,3078.0,2970.0
+Fitzroy,Northern Metropolitan,3065.0,5825.0
+Fitzroy North,Northern Metropolitan,3068.0,6244.0
+Flemington,Northern Metropolitan,3031.0,3593.0
+Footscray,Western Metropolitan,3011.0,7570.0
+Glen Iris,Southern Metropolitan,3146.0,10412.0
+Glenroy,Northern Metropolitan,3046.0,8870.0
+Gowanbrae,Western Metropolitan,3043.0,1071.0
+Hadfield,Northern Metropolitan,3046.0,2606.0
+Hampton,Southern Metropolitan,3188.0,5454.0
+Hampton East,Southern Metropolitan,3188.0,2356.0
+Hawthorn,Southern Metropolitan,3122.0,11308.0
+Heidelberg Heights,Eastern Metropolitan,3081.0,2947.0
+Heidelberg West,Eastern Metropolitan,3081.0,2674.0
+Hughesdale,Southern Metropolitan,3166.0,3145.0
+Ivanhoe,Eastern Metropolitan,3079.0,5549.0
+Kealba,Western Metropolitan,3021.0,1202.0
+Keilor East,Western Metropolitan,3033.0,5629.0
+Kensington,Northern Metropolitan,3031.0,5263.0
+Kew,Southern Metropolitan,3101.0,10331.0
+Kew East,Southern Metropolitan,3102.0,2671.0
+Kooyong,Southern Metropolitan,3144.0,394.0
+Maidstone,Western Metropolitan,3012.0,3873.0
+Malvern,Southern Metropolitan,3144.0,4675.0
+Malvern East,Southern Metropolitan,3145.0,8801.0
+Maribyrnong,Western Metropolitan,3032.0,4918.0
+Melbourne,Northern Metropolitan,3000.0,17496.0
+Middle Park,Southern Metropolitan,3206.0,2019.0
+Mont Albert,Eastern Metropolitan,3127.0,2079.0
+Moonee Ponds,Western Metropolitan,3039.0,6232.0
+Moorabbin,Southern Metropolitan,3189.0,2555.0
+Newport,Western Metropolitan,3015.0,5498.0
+Niddrie,Western Metropolitan,3042.0,2291.0
+North Melbourne,Northern Metropolitan,3051.0,6821.0
+Northcote,Northern Metropolitan,3070.0,11364.0
+Oak Park,Northern Metropolitan,3046.0,2651.0
+Oakleigh South,South-Eastern Metropolitan,3167.0,3692.0
+Parkville,Northern Metropolitan,3052.0,2309.0
+Pascoe Vale,Northern Metropolitan,3044.0,7485.0
+Port Melbourne,Southern Metropolitan,3207.0,8648.0
+Prahran,Southern Metropolitan,3181.0,7717.0
+Preston,Northern Metropolitan,3072.0,14577.0
+Reservoir,Northern Metropolitan,3073.0,21650.0
+Richmond,Northern Metropolitan,3121.0,14949.0
+Rosanna,Eastern Metropolitan,3084.0,3540.0
+Seddon,Western Metropolitan,3011.0,2417.0
+South Melbourne,Southern Metropolitan,3205.0,5943.0
+South Yarra,Southern Metropolitan,3141.0,14887.0
+Southbank,Southern Metropolitan,3006.0,8400.0
+Spotswood,Western Metropolitan,3015.0,1223.0
+St Kilda,Southern Metropolitan,3182.0,13240.0
+Strathmore,Western Metropolitan,3041.0,3284.0
+Sunshine,Western Metropolitan,3020.0,3755.0
+Sunshine North,Western Metropolitan,3020.0,4217.0
+Sunshine West,Western Metropolitan,3020.0,6763.0
+Surrey Hills,Southern Metropolitan,3127.0,5457.0
+Templestowe Lower,Eastern Metropolitan,3107.0,5420.0
+Thornbury,Northern Metropolitan,3071.0,8870.0
+Toorak,Southern Metropolitan,3142.0,7217.0
+Viewbank,Eastern Metropolitan,3084.0,2698.0
+Watsonia,Northern Metropolitan,3087.0,2329.0
+West Melbourne,Northern Metropolitan,3003.0,2230.0
+Williamstown,Western Metropolitan,3016.0,6380.0
+Williamstown North,Western Metropolitan,3016.0,802.0
+Windsor,Southern Metropolitan,3181.0,4380.0
+Yallambie,Northern Metropolitan,3085.0,1369.0
+Yarraville,Western Metropolitan,3013.0,6543.0
+Aberfeldie,Western Metropolitan,3040.0,1543.0
+Bellfield,Eastern Metropolitan,3081.0,790.0
+Brunswick East,Northern Metropolitan,3057.0,5533.0
+Burnley,Northern Metropolitan,3121.0,438.0
+Campbellfield,Northern Metropolitan,3061.0,1889.0
+Carlton,Northern Metropolitan,3053.0,6786.0
+East Melbourne,Northern Metropolitan,3002.0,3040.0
+Essendon West,Western Metropolitan,3040.0,588.0
+Fawkner,Northern Metropolitan,3060.0,5070.0
+Hawthorn East,Southern Metropolitan,3123.0,6482.0
+Heidelberg,Eastern Metropolitan,3084.0,2890.0
+Ivanhoe East,Eastern Metropolitan,3079.0,1554.0
+Jacana,Northern Metropolitan,3047.0,851.0
+Kingsbury,Northern Metropolitan,3083.0,1414.0
+Kingsville,Western Metropolitan,3012.0,1808.0
+Murrumbeena,Southern Metropolitan,3163.0,4442.0
+Ormond,Southern Metropolitan,3204.0,3578.0
+West Footscray,Western Metropolitan,3012.0,5058.0
+Albion,Western Metropolitan,3020.0,2185.0
+Brooklyn,Western Metropolitan,3012.0,962.0
+Glen Huntly,Southern Metropolitan,3163.0,2403.0
+Oakleigh,Southern Metropolitan,3166.0,3224.0
+Ripponlea,Southern Metropolitan,3185.0,821.0
+Cremorne,Northern Metropolitan,3121.0,1123.0
+Docklands,Southern Metropolitan,3008.0,4707.0
+South Kingsville,Western Metropolitan,3015.0,984.0
+Strathmore Heights,Western Metropolitan,3041.0,389.0
+Travancore,Western Metropolitan,3032.0,1052.0
+Caulfield East,Southern Metropolitan,3145.0,608.0
+Seaholme,Western Metropolitan,3018.0,852.0
+Keilor Park,Western Metropolitan,3042.0,1119.0
+Gardenvale,Southern Metropolitan,3185.0,534.0
+Princes Hill,Northern Metropolitan,3054.0,1008.0
+Bayswater,Eastern Metropolitan,3153.0,5030.0
+Bayswater North,Eastern Metropolitan,3153.0,3598.0
+Beaumaris,Southern Metropolitan,3193.0,5366.0
+Berwick,Eastern Victoria,3806.0,17093.0
+Boronia,Eastern Metropolitan,3155.0,9704.0
+Briar Hill,Eastern Metropolitan,3088.0,1390.0
+Broadmeadows,Northern Metropolitan,3047.0,4294.0
+Bundoora,Northern Metropolitan,3083.0,10175.0
+Burnside Heights,Western Metropolitan,3023.0,1686.0
+Burwood East,Eastern Metropolitan,3151.0,4048.0
+Cairnlea,Western Metropolitan,3023.0,2674.0
+Caroline Springs,Western Metropolitan,3023.0,7719.0
+Cheltenham,Southern Metropolitan,3192.0,9758.0
+Craigieburn,Northern Metropolitan,3064.0,15510.0
+Cranbourne,South-Eastern Metropolitan,3977.0,7680.0
+Croydon,Eastern Metropolitan,3136.0,11925.0
+Dandenong,South-Eastern Metropolitan,3175.0,10894.0
+Dandenong North,South-Eastern Metropolitan,3175.0,8322.0
+Diamond Creek,Northern Victoria,3089.0,4258.0
+Dingley Village,South-Eastern Metropolitan,3172.0,3940.0
+Doncaster East,Eastern Metropolitan,3109.0,10999.0
+Donvale,Eastern Metropolitan,3111.0,4790.0
+Doreen,Northern Victoria,3754.0,7254.0
+Eltham,Eastern Metropolitan,3095.0,6990.0
+Epping,Northern Metropolitan,3076.0,10926.0
+Forest Hill,Eastern Metropolitan,3131.0,4385.0
+Frankston,South-Eastern Metropolitan,3199.0,17055.0
+Frankston North,Eastern Victoria,3200.0,2500.0
+Frankston South,South-Eastern Metropolitan,3199.0,7566.0
+Gisborne,Northern Victoria,3437.0,3376.0
+Gladstone Park,Western Metropolitan,3043.0,3285.0
+Greensborough,Northern Metropolitan,3088.0,8524.0
+Hallam,South-Eastern Metropolitan,3803.0,3728.0
+Healesville,Northern Victoria,3777.0,3307.0
+Highett,Southern Metropolitan,3190.0,4794.0
+Hillside,Western Metropolitan,3037.0,5556.0
+Huntingdale,Southern Metropolitan,3166.0,768.0
+Keilor Downs,Western Metropolitan,3038.0,3656.0
+Keilor Lodge,Western Metropolitan,3038.0,570.0
+Keysborough,South-Eastern Metropolitan,3173.0,8459.0
+Kings Park,Western Metropolitan,3021.0,2878.0
+Lalor,Northern Metropolitan,3075.0,8279.0
+Lower Plenty,Eastern Metropolitan,3093.0,1624.0
+Melton,Western Victoria,3337.0,3600.0
+Mernda,Northern Metropolitan,3754.0,5812.0
+Mill Park,Northern Metropolitan,3082.0,10529.0
+Mitcham,Eastern Metropolitan,3132.0,6871.0
+Montmorency,Eastern Metropolitan,3094.0,3891.0
+Mordialloc,South-Eastern Metropolitan,3195.0,3650.0
+Mount Waverley,Eastern Metropolitan,3149.0,13366.0
+Narre Warren,South-Eastern Metropolitan,3805.0,9376.0
+Nunawading,Eastern Metropolitan,3131.0,4973.0
+Oakleigh East,Southern Metropolitan,3166.0,2547.0
+Parkdale,South-Eastern Metropolitan,3195.0,5087.0
+Point Cook,Western Metropolitan,3030.0,15542.0
+Ringwood East,Eastern Metropolitan,3135.0,4407.0
+Rockbank,Western Metropolitan,3335.0,538.0
+Rowville,South-Eastern Metropolitan,3178.0,11667.0
+Sandringham,Southern Metropolitan,3191.0,4497.0
+Seaford,South-Eastern Metropolitan,3198.0,8077.0
+Skye,South-Eastern Metropolitan,3977.0,2756.0
+South Morang,Northern Metropolitan,3752.0,7969.0
+Springvale,South-Eastern Metropolitan,3171.0,7412.0
+St Albans,Western Metropolitan,3021.0,14042.0
+Sunbury,Western Metropolitan,3429.0,14092.0
+Tarneit,Western Metropolitan,3029.0,10160.0
+Taylors Hill,Western Metropolitan,3037.0,4242.0
+Taylors Lakes,Western Metropolitan,3038.0,5336.0
+The Basin,Eastern Metropolitan,3154.0,1690.0
+Thomastown,Northern Metropolitan,3074.0,7955.0
+Truganina,Western Metropolitan,3029.0,5811.0
+Tullamarine,Western Metropolitan,3043.0,3296.0
+Vermont,Eastern Metropolitan,3133.0,4181.0
+Wantirna,Eastern Metropolitan,3152.0,5424.0
+Wantirna South,Eastern Metropolitan,3152.0,7082.0
+Werribee,Western Metropolitan,3030.0,16166.0
+Westmeadows,Northern Metropolitan,3049.0,2474.0
+Williams Landing,Western Metropolitan,3027.0,1999.0
+Wollert,Northern Metropolitan,3750.0,2940.0
+Wyndham Vale,Western Metropolitan,3024.0,5262.0
+Black Rock,Southern Metropolitan,3193.0,2866.0
+Blackburn,Eastern Metropolitan,3130.0,5713.0
+Blackburn North,Eastern Metropolitan,3130.0,2867.0
+Bonbeach,South-Eastern Metropolitan,3196.0,2887.0
+Carrum,South-Eastern Metropolitan,3197.0,1989.0
+Chelsea,South-Eastern Metropolitan,3196.0,3906.0
+Clayton,South-Eastern Metropolitan,3168.0,5837.0
+Doveton,South-Eastern Metropolitan,3177.0,3533.0
+Ferntree Gully,Eastern Metropolitan,3156.0,10788.0
+Glen Waverley,Eastern Metropolitan,3150.0,15321.0
+Greenvale,Northern Metropolitan,3059.0,4864.0
+Heathmont,Eastern Metropolitan,3135.0,3794.0
+Hoppers Crossing,Western Metropolitan,3029.0,13830.0
+McKinnon,Southern Metropolitan,3204.0,2397.0
+Melton South,Western Victoria,3338.0,4718.0
+Melton West,Northern Victoria,3337.0,6065.0
+Mentone,South-Eastern Metropolitan,3194.0,6162.0
+Mooroolbark,Eastern Victoria,3138.0,8280.0
+Mulgrave,South-Eastern Metropolitan,3170.0,7113.0
+Ringwood,Eastern Metropolitan,3134.0,7785.0
+Roxburgh Park,Northern Metropolitan,3064.0,5833.0
+Seabrook,Western Metropolitan,3028.0,1793.0
+Templestowe,Eastern Metropolitan,3106.0,6202.0
+Vermont South,Eastern Metropolitan,3133.0,4280.0
+Warrandyte,Eastern Metropolitan,3113.0,2003.0
+Watsonia North,Northern Metropolitan,3087.0,1442.0
+Wheelers Hill,South-Eastern Metropolitan,3150.0,7392.0
+Altona Meadows,Western Metropolitan,3028.0,7630.0
+Blackburn South,Eastern Metropolitan,3130.0,4387.0
+Carrum Downs,South-Eastern Metropolitan,3201.0,8060.0
+Clayton South,South-Eastern Metropolitan,3169.0,4734.0
+Croydon North,Eastern Metropolitan,3136.0,2985.0
+Langwarrin,Eastern Victoria,3910.0,8743.0
+Noble Park,South-Eastern Metropolitan,3174.0,11806.0
+Notting Hill,Southern Metropolitan,3168.0,902.0
+Ringwood North,Eastern Metropolitan,3134.0,3619.0
+Sydenham,Western Metropolitan,3037.0,3640.0
+Albanvale,Western Metropolitan,3021.0,1899.0
+Beaconsfield Upper,Eastern Victoria,3808.0,973.0
+Chelsea Heights,South-Eastern Metropolitan,3196.0,2076.0
+Dallas,Northern Metropolitan,3047.0,2246.0
+Deer Park,Western Metropolitan,3023.0,6388.0
+Eltham North,Eastern Metropolitan,3095.0,2346.0
+Keilor,Western Metropolitan,3036.0,2339.0
+Meadow Heights,Northern Metropolitan,3048.0,4704.0
+Mount Evelyn,Eastern Victoria,3796.0,3532.0
+North Warrandyte,Eastern Metropolitan,3113.0,1058.0
+Pakenham,Eastern Victoria,3810.0,17384.0
+Riddells Creek,Northern Victoria,3431.0,1475.0
+Sandhurst,South-Eastern Metropolitan,3977.0,1721.0
+Scoresby,Eastern Metropolitan,3179.0,2206.0
+Silvan,Eastern Victoria,3795.0,457.0
+Aspendale,South-Eastern Metropolitan,3195.0,2824.0
+Chirnside Park,Eastern Victoria,3116.0,3789.0
+Croydon Hills,Eastern Metropolitan,3136.0,1705.0
+Croydon South,Eastern Metropolitan,3136.0,1863.0
+Derrimut,Western Metropolitan,3030.0,2276.0
+Diggers Rest,Western Metropolitan,3427.0,1184.0
+Edithvale,South-Eastern Metropolitan,3196.0,2546.0
+Hampton Park,South-Eastern Metropolitan,3976.0,8256.0
+Knoxfield,Eastern Metropolitan,3180.0,2949.0
+St Helena,Eastern Metropolitan,3088.0,915.0
+Upwey,Eastern Victoria,3158.0,2591.0
+Bacchus Marsh,Western Victoria,3340.0,2871.0
+Coolaroo,Northern Metropolitan,3048.0,1124.0
+Cranbourne North,South-Eastern Metropolitan,3977.0,6464.0
+Kilsyth,Eastern Metropolitan,3137.0,4654.0
+Montrose,Eastern Victoria,3765.0,2493.0
+Aspendale Gardens,South-Eastern Metropolitan,3195.0,2243.0
+Bullengarook,Northern Victoria,3437.0,249.0
+Clarinda,South-Eastern Metropolitan,3169.0,2727.0
+Deepdene,Southern Metropolitan,3103.0,892.0
+Delahey,Western Metropolitan,3037.0,2898.0
+Hurstbridge,Northern Victoria,3099.0,1345.0
+Kurunjang,Northern Victoria,3337.0,3553.0
+Wonga Park,Eastern Victoria,3115.0,1328.0
+Endeavour Hills,South-Eastern Metropolitan,3802.0,8443.0
+Officer,Eastern Victoria,3809.0,2768.0
+Waterways,South-Eastern Metropolitan,3195.0,709.0
+Ardeer,Western Metropolitan,3022.0,1281.0
+Beaconsfield,Eastern Victoria,3807.0,2332.0
+Springvale South,South-Eastern Metropolitan,3172.0,4054.0
+Yarra Glen,Northern Victoria,3775.0,1160.0
+Brookfield,Western Victoria,3338.0,3122.0
+Emerald,Eastern Victoria,3782.0,2259.0
+Whittlesea,Northern Victoria,3757.0,2170.0
+Burnside,Western Metropolitan,3023.0,1607.0
+Attwood,Northern Metropolitan,3049.0,1130.0
+Wallan,Northern Victoria,3756.0,3988.0
+New Gisborne,Northern Victoria,3438.0,849.0
+Plumpton,Western Metropolitan,3335.0,1490.0
+Monbulk,Eastern Victoria,3793.0,1424.0

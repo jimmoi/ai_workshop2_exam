@@ -1,0 +1,95 @@
+0,8,5,3,2,7,4,6,9
+
+xxxx
+0853    27469
+
+xx
+08  53  27469
+
+x   
+      53  27469
+
+    x
+0   8   53  27469
+
+ss  xx
+08  53   27469
+
+    x
+08  5   3   27469
+
+        x
+08  5   3   27469
+
+    ss
+08  35  27469
+
+ssss    xxxxx
+0358    27469
+
+        xx
+0358    27 469
+
+        x
+0358    2   7   469
+
+            x
+0358    2   7   469
+
+        ss  xx
+0358    27  46  9
+
+            x
+0358    27  4   6   9
+
+                x
+0358    27  4   6   9
+
+            ss
+0358    27  46  9
+
+                x
+0358    27  46  9
+
+            sss
+0358    27  469
+
+        sssss
+0358    24679
+
+sssssssss
+023456789
+----------------------------------------
+
+2356 4789
+
+23456 <--extend 789
+
+     m
+0000 0000
+
+     m
+0000 00000
+
+
+
+heap sort
+
+minimum spanning tree : kruskal & prim
+
+binary search tree
+
+Amortized Algorithm
+
+heap sort
+
+randomize Algorithm : monte carlo
+
+Quick sort
+
+Shell sort
+
+divide and conquer
+
+greedy Algorithm
+
