@@ -1,0 +1,4 @@
+docker build . -t image_name:1.0
+docker run -p 8000:8000 image_name:tag OR run on docker desktop
+
+docker desktop : https://www.docker.com/products/docker-desktop/

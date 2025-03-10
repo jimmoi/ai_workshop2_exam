@@ -1,0 +1,24 @@
+need to add into code
+    - None
+
+
+
+core each Workshop
+    02 -> data understanding with tools for easy to summary data, model (selaction, save, load), pipeline
+    03 -> create pipeline for deal with mixed data type
+    04 -> select threshold for make that class more important with ROC curve
+    05 -> transform time series data into cyclic for easy to make condition when want to explain time series dataset
+    06 -> how to get target from raw data
+    07 -> basic pytorch auto_grad, training model
+    08 -> data loader and transform data
+    09 -> data loader with images dataset and transfer learning
+    10 -> object detection single and multiple object
+    11 -> segment with masking method
+    12 -> dataset and data loader (labular, images)
+    13 -> model training with data loader
+    14 -> object detection with yolov10 and analize point of obunding box
+    15 -> object detection with yolo-seg and analize problem result
+
+need to understand
+    - pipeline on workshop03
+    - ask friends for  `สร้าง function เพื่อปรับ Output ให้เสมือนตัดสินใจที่ 0.5`
