@@ -1,0 +1,2 @@
+https://github.com/unknownue/PyTorch.docs?tab=readme-ov-file
+https://colab.research.google.com/drive/1iBuivM0hIhOi2hELasgu0HkjSE-3p6pO?usp=sharing
