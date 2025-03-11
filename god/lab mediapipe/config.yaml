@@ -1,0 +1,5 @@
+CAM_PROP:
+  res: [2560, 1440]
+  fps: 60
+
+SCALE_FACTOR: 0.5

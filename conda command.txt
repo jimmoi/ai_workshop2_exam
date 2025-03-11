@@ -1,0 +1,47 @@
+# Check Conda version
+conda --version
+
+# List all installed packages
+conda list
+
+# Create a new environment
+conda create --name myenv python=3.9
+
+# Activate an environment
+conda activate myenv
+
+# Deactivate the current environment
+conda deactivate
+
+# Remove an environment
+conda env remove --name myenv
+
+# Install a package
+conda install numpy
+
+# Install a package from a specific channel
+conda install -c conda-forge numpy
+
+# Remove a package
+conda remove numpy
+
+# Update a package
+conda update numpy
+
+# Update Conda itself
+conda update conda
+
+# List all environments
+conda env list
+
+# Export environment to a file
+conda env export > environment.yml
+
+# Create environment from a file
+conda env create -f environment.yml
+
+# Install a package using pip inside a Conda environment
+pip install package_name
+
+# List installed packages using pip (without @ symbol)
+pip freeze -v | findstr /V @ > rq.txt
