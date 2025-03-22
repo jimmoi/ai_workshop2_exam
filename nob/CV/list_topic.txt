@@ -1,0 +1,58 @@
+lab01_color
+-cvt bgr to ycrcb,hsv
+-split channel color
+-statistic color value
+-crop image
+-bright/contrast with linear
+
+lab02_camera_lens
+-adjust camera param
+
+lab03_threshold_image
+-read img with PIL
+-resize img with interporate
+-threshold with ycrcb,hsv
+-affine transformation
+-line detection with threshold
+
+lab04_denoise
+-avg kernel
+-noise/denoise with gaussian
+-salt pepper noise
+-median blur
+-filter h/l freq with fft
+
+lab05_segment_with_thes
+-binary threshold
+-kmean segment
+-elbow cluster
+-morphology
+-contour bin img
+
+lab06_edge_line
+-edge detect with canny,
+ Sobel, Marr-Hildreth
+-line detect
+
+lab07_keypoint
+-keypoint with harris
+-keypoint with sift
+
+lab08_panorama_blending
+-blending
+-panorama 3 image
+
+lab09_cbam
+-classification
+
+lab10_dl_fantasy
+-segmentation multi
+-object detection multi
+
+lab11_self_sup_vised
+-แก้ lab10
+
+lab12_GANs
+
+lab13_optical_flow
+-vector, dense
